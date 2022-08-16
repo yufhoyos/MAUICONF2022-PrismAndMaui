@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrismAndMauiApp1", "PrismAndMauiApp1.csproj", "{F282A50C-4EDA-40AD-A488-846D4FE4AA75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrismAndMauiApp1", "PrismAndMauiApp1\PrismAndMauiApp1.csproj", "{8B5DBCC9-EEE8-4CFB-87DF-DEDEF8E643F1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrismAndMaui.MainApp", "..\PrismAndMaui.MainApp\PrismAndMaui.MainApp.csproj", "{A0124CAA-AC57-430A-A365-7BE876E4D893}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrismAndMaui.MainApp", "PrismAndMaui.MainApp\PrismAndMaui.MainApp.csproj", "{51332C3B-89C3-4DF3-9005-4314595B9FBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F282A50C-4EDA-40AD-A488-846D4FE4AA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F282A50C-4EDA-40AD-A488-846D4FE4AA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F282A50C-4EDA-40AD-A488-846D4FE4AA75}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{F282A50C-4EDA-40AD-A488-846D4FE4AA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F282A50C-4EDA-40AD-A488-846D4FE4AA75}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F282A50C-4EDA-40AD-A488-846D4FE4AA75}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{A0124CAA-AC57-430A-A365-7BE876E4D893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A0124CAA-AC57-430A-A365-7BE876E4D893}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A0124CAA-AC57-430A-A365-7BE876E4D893}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A0124CAA-AC57-430A-A365-7BE876E4D893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5DBCC9-EEE8-4CFB-87DF-DEDEF8E643F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5DBCC9-EEE8-4CFB-87DF-DEDEF8E643F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5DBCC9-EEE8-4CFB-87DF-DEDEF8E643F1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8B5DBCC9-EEE8-4CFB-87DF-DEDEF8E643F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5DBCC9-EEE8-4CFB-87DF-DEDEF8E643F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5DBCC9-EEE8-4CFB-87DF-DEDEF8E643F1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{51332C3B-89C3-4DF3-9005-4314595B9FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51332C3B-89C3-4DF3-9005-4314595B9FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51332C3B-89C3-4DF3-9005-4314595B9FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51332C3B-89C3-4DF3-9005-4314595B9FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

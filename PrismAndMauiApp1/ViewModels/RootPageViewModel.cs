@@ -1,7 +1,5 @@
 ﻿namespace PrismAndMauiApp1.ViewModels;
 
-using PrismAndMaui.MainApp.Events;
-
 public class RootPageViewModel 
 {
     private INavigationService _navigationService { get; }

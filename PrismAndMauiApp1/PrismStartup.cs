@@ -30,7 +30,7 @@ internal static class PrismStartup
     {
         containerRegistry.RegisterScoped<BaseServices>();
         containerRegistry.RegisterForNavigation<MainPage>()
-                         .RegisterForNavigation<RootPage>()
+                         .RegisterForNavigation<RootPage, RootPageViewModel>()
                          .RegisterForNavigation<SplashPage>()
                          .RegisterInstance(DeviceInfo.Current)
                          .RegisterInstance(SemanticScreenReader.Default)

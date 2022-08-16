@@ -49,6 +49,15 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <AndroidResource Remove="PrismAndMaui.MainApp\**" />
+	  <Compile Remove="PrismAndMaui.MainApp\**" />
+	  <EmbeddedResource Remove="PrismAndMaui.MainApp\**" />
+	  <MauiCss Remove="PrismAndMaui.MainApp\**" />
+	  <MauiXaml Remove="PrismAndMaui.MainApp\**" />
+	  <None Remove="PrismAndMaui.MainApp\**" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Remove="Resources\Images\logomauiconf.png" />
 	</ItemGroup>
 
